@@ -26,6 +26,10 @@ The Webb telescope will spend hundreds of hours surveying this patch of sky, see
 
 “Webb has such transformative capabilities that — to me — it’s going to be the ‘before’ times and the ‘after’ times,” says Jane Rigby, an astrophysicist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, who serves as Webb’s operations project scientist.
 
-## Article
+---
 
-[Read the original article](https://www.nature.com/articles/d41586-021-03620-1)
+{{< rawhtml >}}
+  <p class="article-category">
+    <a target="_blank" href="https://www.nature.com/articles/d41586-021-03620-1">READ THE ORIGINAL ARTICLE</a>
+  </p>
+{{< /rawhtml >}}
