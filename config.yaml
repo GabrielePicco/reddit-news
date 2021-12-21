@@ -66,7 +66,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: https://github.com/GabrielePicco/reddit-news
+            repo: GabrielePicco/reddit-news
             issueTerm: url
             label: Comment
 
