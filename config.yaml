@@ -68,7 +68,9 @@ params:
         utterances:
             repo: https://github.com/GabrielePicco/reddit-news
             issueTerm: pathname
-            label:
+            theme: preferred-color-scheme
+            label: Comment
+            crossorigin: anonymous
 
         remark42:
             host:
