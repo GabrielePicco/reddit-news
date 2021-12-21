@@ -67,7 +67,7 @@ params:
 
         utterances:
             repo: https://github.com/GabrielePicco/reddit-news
-            issueTerm: pathname
+            issueTerm: url
             label: Comment
 
         remark42:
