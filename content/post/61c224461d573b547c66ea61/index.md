@@ -1,6 +1,6 @@
 +++
 title = "CDC director says initial Covid shots 'may not be enough' as omicron rapidly sweeps the nation"
-description = "Dr. Rochelle Walensky said omicron has "over 50 mutations and because of those mutations, just being vaccinated with two doses may not be enough.""
+description = "Dr. Rochelle Walensky said omicron has \"over 50 mutations and because of those mutations, just being vaccinated with two doses may not be enough.\""
 date = "2021-12-21 19:10:17"
 slug = "61c224461d573b547c66ea61"
 image = "https://image.cnbcfm.com/api/v1/image/106981909-1638228454183-gettyimages-1236344848-SENATE_HELP_COVID.jpeg?v=1638228525"
