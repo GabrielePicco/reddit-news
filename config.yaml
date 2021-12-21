@@ -28,8 +28,8 @@ params:
     mainSections:
         - post
     featuredImageField: image
-    rssFullContent: true
-    favicon: img/avatar.png
+    rssFullContent: false
+    favicon: https://i.imgur.com/t08WlCD.png
 
     footer:
         since: 2020
