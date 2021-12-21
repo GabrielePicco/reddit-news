@@ -7,7 +7,7 @@ relativeURLs: true
 title: Reddit News
 
 # Change it to your Disqus shortname before using
-disqusShortname: Reddit News
+disqusShortname:
 
 # GA Tracking ID
 googleAnalytics:
