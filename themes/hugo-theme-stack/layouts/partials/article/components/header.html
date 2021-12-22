@@ -26,7 +26,8 @@
                         onerror="this.src='https://i.imgur.com/tHVLcS9.jpg'"
                         alt="Featured image of post {{ .Title }}" />
                 {{ else }}
-                    <img src="{{ $image.permalink }}" loading="lazy" alt="Featured image of post {{ .Title }}" />
+                    <img src="{{ $image.permalink }}" loading="lazy" alt="Featured image of post {{ .Title }}" 
+                         onerror="this.src='https://i.imgur.com/tHVLcS9.jpg'" />
                 {{ end }}
             </a>
         </div>
