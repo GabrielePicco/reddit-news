@@ -3,7 +3,7 @@ title = "11-week Kellogg’s strike to end after multi-year agreement reached"
 description = ""
 date = "2021-12-21 18:10:08"
 slug = "61c2163b7a1ba2cb195170e5"
-image = "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/76ezEfYScD-VTl08qfrCPNmItAk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZJWKDSQIUFESTNIA6H2HWRI6X4.jpg"
+image = "https://media.npr.org/assets/img/2021/12/21/gettyimages-1235751190_wide-1fd3f3fd43130e00713ee83cf6dd42db7f72c8c9.jpg"
 categories = ['washington', 'post', 'multiyear']
 +++
 
