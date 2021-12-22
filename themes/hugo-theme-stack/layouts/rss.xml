@@ -21,10 +21,6 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
         {{- end -}}
         {{ range $filtered }}
-        {{- $content := safeHTML (.Summary | html) -}}
-        {{- if .Site.Params.rssFullContent -}}
-            {{- $content = safeHTML (.Content | html) -}}
-        {{- end -}}
         <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
