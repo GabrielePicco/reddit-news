@@ -1,6 +1,6 @@
 +++
 title = "Missing Utah college student Madelyn Allen found alive, 'covered in coal' in suspect's basement"
-description = "Utah college student Madelyn "Maddie" Allen vanished last week and was found alive, covered in coal, in the basement of 39-year-old suspect Brent Brown."
+description = "Utah college student Madelyn \"Maddie\" Allen vanished last week and was found alive, covered in coal, in the basement of 39-year-old suspect Brent Brown."
 date = "2021-12-22 02:10:25"
 slug = "61c286b5cf7217ffa7649eac"
 image = "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211221-madelyn-allen-mn-1255-4ae8ed.jpg"
