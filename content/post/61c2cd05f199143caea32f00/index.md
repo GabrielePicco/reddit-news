@@ -1,5 +1,5 @@
 +++
-title = "Government official swims 12 hours to shore after helicopter crash off Madagascar: "My time to die hasn't come yet""
+title = "Government official swims 12 hours to shore after helicopter crash off Madagascar: \"My time to die hasn't come yet\""
 description = "The helicopter was flying Serge Gelle and others to inspect the site of a deadly shipwreck off the northeastern coast."
 date = "2021-12-22 07:10:12"
 slug = "61c2cd05f199143caea32f00"
