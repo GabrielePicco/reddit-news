@@ -1,13 +1,13 @@
 +++
 title = "Michigan says it won't follow CDC's more relaxed COVID-19 quarantine recommendations"
-description = "Michigan health officials say they won't adopt shorter federal COVID-19 isolation/quarantine guidelines until they review \"
+description = "Michigan health officials say they won't adopt shorter federal COVID-19 isolation/quarantine guidelines until the review"
 date = "2021-12-30 22:10:13"
 slug = "61ce2bfb7e28cc2bb7b6ae30"
 image = "https://www.gannett-cdn.com/presto/2020/03/18/PDTF/047a0d15-c87d-46a7-86aa-c978dc5b36a0-031820_corona_virus_eff2.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
 categories = ['positive', 'isolation', 'wont']
 +++
 
-Michigan health officials say they won't adopt shorter federal COVID-19 isolation/quarantine guidelines until they review \
+Michigan health officials say they won't adopt shorter federal COVID-19 isolation/quarantine guidelines until the review
 
 ## Summary
 
