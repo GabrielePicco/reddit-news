@@ -1,4 +1,4 @@
-baseurl: https://www.redditnews.com
+baseurl: https://www.redditnews.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 10
