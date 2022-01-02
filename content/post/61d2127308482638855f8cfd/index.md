@@ -6,14 +6,8 @@ Witnesses say he poured gas on himself and his car in Richmond around 8pm last n
 
 Police officers and firefighters doused the man in water before he was restrained with the help of witnesses.
 
-The man was taken to hospital with life-threatening injuries. 
+The man was taken to hospital with life-threatening injuries."
 
-
-If you or anyone you know is feeling distressed:
-
-Lifeline: 13 11 14
-
-Beyond Blue: 1300 22 4636"
 date = "2022-01-02 21:10:19"
 slug = "61d2127308482638855f8cfd"
 image = "https://content.api.news/v3/images/bin/d393bcf392034dc7b17dd72face1b0cf"
@@ -28,20 +22,13 @@ Police officers and firefighters doused the man in water before he was restraine
 
 The man was taken to hospital with life-threatening injuries. 
 
-
-If you or anyone you know is feeling distressed:
-
-Lifeline: 13 11 14
-
-Beyond Blue: 1300 22 4636
-
 ## Summary
 
 - A man has set himself alight in Melbourne while yelling expletives about vaccine mandates in Victoria.
 - Witnesses say he poured gas on himself and his car in Richmond around 8pm last night.
 - Police officers and firefighters doused the man in water before he was restrained with the help of witnesses.
 - The man was taken to hospital with life-threatening injuries.
-- If you or anyone you know is feeling distressed:Lifeline: 13 11 14Beyond Blue: 1300 22 4636
+- If you or anyone you know is feeling distressed
 
 ---
 
