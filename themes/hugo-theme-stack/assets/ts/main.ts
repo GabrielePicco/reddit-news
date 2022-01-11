@@ -11,6 +11,17 @@ import menu from 'ts/menu';
 import createElement from 'ts/createElement';
 import StackColorScheme from 'ts/colorScheme';
 
+/**
+ * Infinite Scroll
+ */
+const InfiniteScroll = require('infinite-scroll'); // installed via NPM
+const elm = document.querySelector('.article-list');
+const options = {
+  path: '.pagination-next',
+  append: '.has-image'
+};
+const infScroll = new InfiniteScroll(elm, options);
+
 let Stack = {
     init: () => {
         /**

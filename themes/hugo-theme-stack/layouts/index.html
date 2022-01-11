@@ -10,6 +10,8 @@
         {{ end }}
     </section>
 
+    <a href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" class="pagination-next"></a>
+
     {{- partial "pagination.html" . -}}
     {{- partial "footer/footer" . -}}
 {{ end }}
