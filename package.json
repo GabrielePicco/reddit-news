@@ -1,0 +1,22 @@
+{
+  "name": "reddit-news",
+  "version": "1.0.0",
+  "description": "https://www.redditnews.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielePicco/reddit-news.git"
+  },
+  "author": "",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/GabrielePicco/reddit-news/issues"
+  },
+  "homepage": "https://github.com/GabrielePicco/reddit-news#readme",
+  "dependencies": {
+    "infinite-scroll": "^4.0.1"
+  }
+}
