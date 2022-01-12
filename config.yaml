@@ -32,7 +32,7 @@ params:
     favicon: https://i.imgur.com/t08WlCD.png
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
