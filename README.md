@@ -9,3 +9,7 @@ Article are presented in an easy to read format, with a summary and the link to 
 # RSS feed
 
 RSS feed is available at https://www.redditnews.io/index.xml
+
+### Credits 
+
+Hugo Theme: https://github.com/CaiJimmy/hugo-theme-stack
