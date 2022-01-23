@@ -40,6 +40,14 @@
                 </time>
             </div>
         {{ end }}
+
+        {{ if and (.Site.Params.article.score) (isset .Params "score") }}
+            <div>
+                <span class="article-time--reading">
+                    · {{ .Params.score }} points
+                </span>
+            </div>
+        {{ end }}
     </footer>
     {{ end }}
 </div>

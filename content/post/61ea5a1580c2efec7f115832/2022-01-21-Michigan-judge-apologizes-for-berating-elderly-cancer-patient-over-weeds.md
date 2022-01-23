@@ -1,13 +1,13 @@
 +++
 title = "Michigan judge apologizes for berating elderly cancer patient over weeds"
-description = "\"
+description = "Michigan judge apologizes for berating elderly cancer patient over weeds"
 date = "2022-01-21 07:10:13"
 slug = "61ea5a1580c2efec7f115832"
 image = "https://www.gannett-cdn.com/presto/2022/01/20/PDTF/34f50a5b-6753-45da-8ea0-36f304958eaa-hamtramck_judge_krot_photo_from_court.jpeg?auto=webp&crop=399,225,x0,y90&format=pjpg&width=1200"
 categories = ['hearing', 'city', 'apologizes']
 +++
 
-\
+Michigan judge apologizes for berating elderly cancer patient over weeds
 
 ## Summary
 

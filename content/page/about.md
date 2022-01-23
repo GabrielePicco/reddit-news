@@ -15,7 +15,7 @@ menu:
             icon: user
 ---
 
-Aggregate top news from the https://www.reddit.com/r/news/ and https://www.reddit.com/r/worldnews/ subreddit.
+Curated list of news from https://www.reddit.com/r/news/ and https://www.reddit.com/r/worldnews/ subreddit.
 
 
 To correct errors and feature requests, refer to the repository: https://github.com/GabrielePicco/reddit-news
